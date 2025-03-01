@@ -2,5 +2,10 @@
     <string name="app_name">Mobive</string>
     <string name="watch_movies_n_in_reality">Watch Videos \n In Reality</string>
     <string name="download_and_watch_offline_n_where_you_are">Download And Watch offline \n Where You Are</string>
+    <string name="get_in">Get In</string>
+    <string name="login">Login</string>
+    <string name="name">User Name</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot Your Password?</string>
 
 </resources>
